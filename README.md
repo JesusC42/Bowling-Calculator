@@ -1,1 +1,1 @@
-This is a simple bowling calculator. Run the main file and you'll be able to click how many pins for each frame from one you knock down and the score will display accordingly.
+This is a simple bowling calculator. Run the main file to create an instance of the Bowling game and you'll be able to click how many pins for each frame from one you knock down and the score will display accordingly. The test file is for testing specific kinds of games for potential bugs the current test cases in there all should pass.
